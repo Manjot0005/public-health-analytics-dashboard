@@ -1,0 +1,256 @@
+StateDesc,StateAbbr,Value,Condition
+Alabama,AL,13.1,Diabetes
+Alaska,AK,9.1,Diabetes
+Arizona,AZ,10.6,Diabetes
+Arkansas,AR,12.0,Diabetes
+California,CA,10.1,Diabetes
+Colorado,CO,8.25,Diabetes
+Connecticut,CT,8.8,Diabetes
+Delaware,DE,10.7,Diabetes
+District of Columbia,DC,8.5,Diabetes
+Florida,FL,11.2,Diabetes
+Georgia,GA,13.4,Diabetes
+Hawaii,HI,9.6,Diabetes
+Idaho,ID,9.2,Diabetes
+Illinois,IL,10.15,Diabetes
+Indiana,IN,11.2,Diabetes
+Iowa,IA,9.7,Diabetes
+Kansas,KS,10.0,Diabetes
+Kentucky,KY,,Diabetes
+Louisiana,LA,14.3,Diabetes
+Maine,ME,9.1,Diabetes
+Maryland,MD,10.35,Diabetes
+Massachusetts,MA,8.15,Diabetes
+Michigan,MI,10.1,Diabetes
+Minnesota,MN,9.3,Diabetes
+Mississippi,MS,14.4,Diabetes
+Missouri,MO,11.0,Diabetes
+Montana,MT,8.5,Diabetes
+Nebraska,NE,9.6,Diabetes
+Nevada,NV,10.2,Diabetes
+New Hampshire,NH,7.6,Diabetes
+New Jersey,NJ,8.9,Diabetes
+New Mexico,NM,12.4,Diabetes
+New York,NY,9.0,Diabetes
+North Carolina,NC,10.75,Diabetes
+North Dakota,ND,9.0,Diabetes
+Ohio,OH,11.3,Diabetes
+Oklahoma,OK,11.9,Diabetes
+Oregon,OR,10.05,Diabetes
+Pennsylvania,PA,,Diabetes
+Rhode Island,RI,7.9,Diabetes
+South Carolina,SC,13.2,Diabetes
+South Dakota,SD,9.9,Diabetes
+Tennessee,TN,12.3,Diabetes
+Texas,TX,12.2,Diabetes
+Utah,UT,9.3,Diabetes
+Vermont,VT,7.2,Diabetes
+Virginia,VA,11.5,Diabetes
+Washington,WA,9.1,Diabetes
+West Virginia,WV,13.1,Diabetes
+Wisconsin,WI,9.5,Diabetes
+Wyoming,WY,9.3,Diabetes
+Alabama,AL,40.8,Obesity
+Alaska,AK,35.0,Obesity
+Arizona,AZ,33.3,Obesity
+Arkansas,AR,40.6,Obesity
+California,CA,30.35,Obesity
+Colorado,CO,27.15,Obesity
+Connecticut,CT,30.7,Obesity
+Delaware,DE,34.2,Obesity
+District of Columbia,DC,25.1,Obesity
+Florida,FL,34.5,Obesity
+Georgia,GA,39.1,Obesity
+Hawaii,HI,26.2,Obesity
+Idaho,ID,33.5,Obesity
+Illinois,IL,38.95,Obesity
+Indiana,IN,39.65,Obesity
+Iowa,IA,39.7,Obesity
+Kansas,KS,39.3,Obesity
+Kentucky,KY,,Obesity
+Louisiana,LA,42.35,Obesity
+Maine,ME,34.2,Obesity
+Maryland,MD,36.8,Obesity
+Massachusetts,MA,26.85,Obesity
+Michigan,MI,38.3,Obesity
+Minnesota,MN,37.1,Obesity
+Mississippi,MS,42.6,Obesity
+Missouri,MO,38.9,Obesity
+Montana,MT,32.95,Obesity
+Nebraska,NE,39.8,Obesity
+Nevada,NV,35.0,Obesity
+New Hampshire,NH,31.75,Obesity
+New Jersey,NJ,29.7,Obesity
+New Mexico,NM,35.6,Obesity
+New York,NY,32.9,Obesity
+North Carolina,NC,37.15,Obesity
+North Dakota,ND,38.5,Obesity
+Ohio,OH,39.3,Obesity
+Oklahoma,OK,40.4,Obesity
+Oregon,OR,35.75,Obesity
+Pennsylvania,PA,,Obesity
+Rhode Island,RI,28.0,Obesity
+South Carolina,SC,38.35,Obesity
+South Dakota,SD,35.9,Obesity
+Tennessee,TN,39.8,Obesity
+Texas,TX,37.5,Obesity
+Utah,UT,32.8,Obesity
+Vermont,VT,30.35,Obesity
+Virginia,VA,38.3,Obesity
+Washington,WA,35.0,Obesity
+West Virginia,WV,41.3,Obesity
+Wisconsin,WI,39.15,Obesity
+Wyoming,WY,34.8,Obesity
+Alabama,AL,40.5,High Blood Pressure
+Alaska,AK,31.95,High Blood Pressure
+Arizona,AZ,31.0,High Blood Pressure
+Arkansas,AR,38.5,High Blood Pressure
+California,CA,29.4,High Blood Pressure
+Colorado,CO,26.75,High Blood Pressure
+Connecticut,CT,28.4,High Blood Pressure
+Delaware,DE,32.8,High Blood Pressure
+District of Columbia,DC,30.3,High Blood Pressure
+Florida,FL,32.9,High Blood Pressure
+Georgia,GA,37.9,High Blood Pressure
+Hawaii,HI,27.0,High Blood Pressure
+Idaho,ID,29.65,High Blood Pressure
+Illinois,IL,31.8,High Blood Pressure
+Indiana,IN,34.85,High Blood Pressure
+Iowa,IA,31.0,High Blood Pressure
+Kansas,KS,31.6,High Blood Pressure
+Kentucky,KY,,High Blood Pressure
+Louisiana,LA,40.9,High Blood Pressure
+Maine,ME,29.4,High Blood Pressure
+Maryland,MD,33.6,High Blood Pressure
+Massachusetts,MA,27.6,High Blood Pressure
+Michigan,MI,32.7,High Blood Pressure
+Minnesota,MN,28.6,High Blood Pressure
+Mississippi,MS,42.95,High Blood Pressure
+Missouri,MO,33.9,High Blood Pressure
+Montana,MT,29.2,High Blood Pressure
+Nebraska,NE,30.2,High Blood Pressure
+Nevada,NV,31.1,High Blood Pressure
+New Hampshire,NH,28.05,High Blood Pressure
+New Jersey,NJ,29.2,High Blood Pressure
+New Mexico,NM,31.4,High Blood Pressure
+New York,NY,30.05,High Blood Pressure
+North Carolina,NC,34.2,High Blood Pressure
+North Dakota,ND,30.3,High Blood Pressure
+Ohio,OH,33.85,High Blood Pressure
+Oklahoma,OK,37.4,High Blood Pressure
+Oregon,OR,30.3,High Blood Pressure
+Pennsylvania,PA,,High Blood Pressure
+Rhode Island,RI,28.2,High Blood Pressure
+South Carolina,SC,37.05,High Blood Pressure
+South Dakota,SD,29.4,High Blood Pressure
+Tennessee,TN,37.2,High Blood Pressure
+Texas,TX,33.5,High Blood Pressure
+Utah,UT,28.8,High Blood Pressure
+Vermont,VT,27.7,High Blood Pressure
+Virginia,VA,33.6,High Blood Pressure
+Washington,WA,29.0,High Blood Pressure
+West Virginia,WV,38.7,High Blood Pressure
+Wisconsin,WI,29.45,High Blood Pressure
+Wyoming,WY,28.7,High Blood Pressure
+Alabama,AL,19.6,Mental Health
+Alaska,AK,16.45,Mental Health
+Arizona,AZ,17.4,Mental Health
+Arkansas,AR,20.7,Mental Health
+California,CA,18.4,Mental Health
+Colorado,CO,17.5,Mental Health
+Connecticut,CT,17.2,Mental Health
+Delaware,DE,16.5,Mental Health
+District of Columbia,DC,13.7,Mental Health
+Florida,FL,18.7,Mental Health
+Georgia,GA,19.6,Mental Health
+Hawaii,HI,16.5,Mental Health
+Idaho,ID,17.3,Mental Health
+Illinois,IL,18.7,Mental Health
+Indiana,IN,19.3,Mental Health
+Iowa,IA,17.8,Mental Health
+Kansas,KS,17.7,Mental Health
+Kentucky,KY,,Mental Health
+Louisiana,LA,21.3,Mental Health
+Maine,ME,20.4,Mental Health
+Maryland,MD,17.0,Mental Health
+Massachusetts,MA,17.45,Mental Health
+Michigan,MI,20.0,Mental Health
+Minnesota,MN,17.1,Mental Health
+Mississippi,MS,19.1,Mental Health
+Missouri,MO,19.8,Mental Health
+Montana,MT,19.05,Mental Health
+Nebraska,NE,15.3,Mental Health
+Nevada,NV,19.4,Mental Health
+New Hampshire,NH,17.0,Mental Health
+New Jersey,NJ,16.1,Mental Health
+New Mexico,NM,17.5,Mental Health
+New York,NY,17.75,Mental Health
+North Carolina,NC,18.8,Mental Health
+North Dakota,ND,15.4,Mental Health
+Ohio,OH,19.5,Mental Health
+Oklahoma,OK,19.3,Mental Health
+Oregon,OR,19.6,Mental Health
+Pennsylvania,PA,,Mental Health
+Rhode Island,RI,15.8,Mental Health
+South Carolina,SC,18.55,Mental Health
+South Dakota,SD,16.5,Mental Health
+Tennessee,TN,22.0,Mental Health
+Texas,TX,18.5,Mental Health
+Utah,UT,18.1,Mental Health
+Vermont,VT,17.7,Mental Health
+Virginia,VA,18.6,Mental Health
+Washington,WA,18.3,Mental Health
+West Virginia,WV,23.4,Mental Health
+Wisconsin,WI,17.25,Mental Health
+Wyoming,WY,17.2,Mental Health
+Alabama,AL,41.5,Sleep <7h
+Alaska,AK,37.25,Sleep <7h
+Arizona,AZ,37.6,Sleep <7h
+Arkansas,AR,41.1,Sleep <7h
+California,CA,35.2,Sleep <7h
+Colorado,CO,31.8,Sleep <7h
+Connecticut,CT,37.4,Sleep <7h
+Delaware,DE,36.5,Sleep <7h
+District of Columbia,DC,32.8,Sleep <7h
+Florida,FL,39.5,Sleep <7h
+Georgia,GA,39.7,Sleep <7h
+Hawaii,HI,42.6,Sleep <7h
+Idaho,ID,34.0,Sleep <7h
+Illinois,IL,37.2,Sleep <7h
+Indiana,IN,37.75,Sleep <7h
+Iowa,IA,33.9,Sleep <7h
+Kansas,KS,35.8,Sleep <7h
+Kentucky,KY,41.7,Sleep <7h
+Louisiana,LA,41.75,Sleep <7h
+Maine,ME,34.95,Sleep <7h
+Maryland,MD,37.55,Sleep <7h
+Massachusetts,MA,34.5,Sleep <7h
+Michigan,MI,35.0,Sleep <7h
+Minnesota,MN,31.2,Sleep <7h
+Mississippi,MS,39.9,Sleep <7h
+Missouri,MO,39.4,Sleep <7h
+Montana,MT,33.1,Sleep <7h
+Nebraska,NE,32.3,Sleep <7h
+Nevada,NV,38.2,Sleep <7h
+New Hampshire,NH,34.45,Sleep <7h
+New Jersey,NJ,38.5,Sleep <7h
+New Mexico,NM,36.0,Sleep <7h
+New York,NY,38.45,Sleep <7h
+North Carolina,NC,35.45,Sleep <7h
+North Dakota,ND,33.6,Sleep <7h
+Ohio,OH,39.55,Sleep <7h
+Oklahoma,OK,38.4,Sleep <7h
+Oregon,OR,33.25,Sleep <7h
+Pennsylvania,PA,39.3,Sleep <7h
+Rhode Island,RI,33.1,Sleep <7h
+South Carolina,SC,39.1,Sleep <7h
+South Dakota,SD,31.15,Sleep <7h
+Tennessee,TN,39.7,Sleep <7h
+Texas,TX,39.5,Sleep <7h
+Utah,UT,35.2,Sleep <7h
+Vermont,VT,31.15,Sleep <7h
+Virginia,VA,37.9,Sleep <7h
+Washington,WA,32.3,Sleep <7h
+West Virginia,WV,43.4,Sleep <7h
+Wisconsin,WI,33.9,Sleep <7h
+Wyoming,WY,32.5,Sleep <7h
